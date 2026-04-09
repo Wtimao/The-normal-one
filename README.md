@@ -87,8 +87,8 @@ Tenho interesse em evoluir futuramente para **práticas DevOps**, com foco em co
 - Infraestrutura como apoio ao desenvolvimento back-end
 
 
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/wesley-pereira-2b53a8338
+
 
 ---
 
